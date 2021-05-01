@@ -1,3 +1,3 @@
 # Fake-News-Detection
 
-after downloading extract news.rar
+after downloading extract data.rar
