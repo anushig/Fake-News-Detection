@@ -22,16 +22,8 @@ Feature engineering: Obtained data contains 4 columns, the ID, title and text of
 
 Constructed models:  5 algorithms of supervised learning have been used in order to create a model which will accurately distingiush fake news based on the text.
 
-                     1. Passive Agressive Classifier 
-                     
-                     
+                     1. Passive Agressive Classifier                   
                      2. XGBClassifier
-                     
-                     
-                     3. Logistic Regression
-                     
-                     
-                     4. Desicion Tree
-                     
-                     
+                     3. Logistic Regression                     
+                     4. Desicion Tree                     
                      5. Random forest
